@@ -1,0 +1,6 @@
+[submodule "Assets/tower_fantasma_code"]
+	path = Assets/tower_fantasma_code
+	url = git@github.com:MadeMadeDane/tower_fantasma_code.git
+[submodule "Assets/tower_fantasma_maps"]
+	path = Assets/tower_fantasma_maps
+	url = git@github.com:MadeMadeDane/tower_fantasma_maps.git
